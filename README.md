@@ -1,4 +1,5 @@
 # GSOC-Images
+![Q1](https://github.com/faze-geek/GSOC-Images/assets/90216905/91bd2272-7fa5-4a2c-bca2-94d3be16d78a)
 
 <img width="959" alt="image" src="https://github.com/faze-geek/GSOC-Images/assets/90216905/fe6b05c7-aae6-409b-86c5-3544d871db23">
 
@@ -12,5 +13,4 @@
 <img width="960" alt="image" src="https://github.com/faze-geek/GSOC-Images/assets/90216905/ec08cd00-5a42-4ac3-b927-80b243523c85">
 
 
-![image](https://github.com/faze-geek/GSOC-Images/assets/90216905/fd05211f-3d85-454d-b08f-565e8f73b84b)
 
